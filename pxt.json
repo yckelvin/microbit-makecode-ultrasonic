@@ -1,0 +1,23 @@
+{
+    "name": "Microbit v2 - Ultrasonic ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "pxt-SGBotic-SR04-I2C": "github:sgbotic/pxt-sgbotic-sr04-i2c#be98018db7d7a2098d625844d3d472ae2499cf4a"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
