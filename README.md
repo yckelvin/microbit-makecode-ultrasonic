@@ -1,5 +1,5 @@
 
-> Open this page at [https://yckelvin.github.io/kelvinsir-makecode-ultrasonic/](https://yckelvin.github.io/kelvinsir-makecode-ultrasonic/)
+> Open this page at [https://yckelvin.github.io/microbit-makecode-ultrasonic/](https://yckelvin.github.io/microbit-makecode-ultrasonic/)
 
 ## Use as Extension
 
