@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
-        "pxt-SGBotic-SR04-I2C": "github:sgbotic/pxt-sgbotic-sr04-i2c#be98018db7d7a2098d625844d3d472ae2499cf4a"
+        "pxt-SGBotic-SR04-I2C": "github:sgbotic/pxt-sgbotic-sr04-i2c#be98018db7d7a2098d625844d3d472ae2499cf4a",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9"
     },
     "files": [
         "main.blocks",

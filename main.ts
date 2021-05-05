@@ -1,7 +1,7 @@
 basic.forever(function () {
     if (sonar.ping(
+    DigitalPin.P0,
     DigitalPin.P1,
-    DigitalPin.P2,
     PingUnit.Centimeters
     ) <= 10) {
         soundExpression.giggle.play()
